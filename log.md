@@ -2,9 +2,9 @@
 
 ### Day 1: June 26, 2018 
 
-**Today's Progress**: Cleaned up some on css portfolio site, created repo on Github.
+**Today's Progress**: Cleaned up some css on portfolio site, created repo on Github.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm pretty happy with the layout thus far, really it's just a landing page with links to my github, twitter and Medium, but at least it looks good ;-)
 
 **Link to work:** [Sam Armstrong](https://samarmstrong.xyz)
 
