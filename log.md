@@ -9,3 +9,9 @@
 **Link to work:** [Sam Armstrong](https://samarmstrong.xyz)
 
 
+### Day 2: June 27, 2018 
+
+**Today's Progress**: More CSS work on my portfolio site
+**Thoughts:** Moving right along, graduation cannot come sooner
+
+**Link to work:** [Sam Armstrong](https://samarmstrong.xyz)
