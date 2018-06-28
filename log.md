@@ -15,3 +15,10 @@
 **Thoughts:** Moving right along, graduation cannot come sooner
 
 **Link to work:** [Sam Armstrong](https://samarmstrong.xyz)
+
+### Day 3: June 28, 2018 
+
+**Today's Progress**: Continuing toward my mastery of CSS, I created a simple blog template
+**Thoughts:** It's simple, and looks great, now need to build the post pages ;-D
+**Link to work:** [github_repo](https://github.com/thirddeck/samfm)
+
