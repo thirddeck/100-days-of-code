@@ -28,3 +28,9 @@
 **Today's Progress**: Created a app using AJAX and the github API, to display user Public profile information
 **Thoughts:** this was tough, but i learned a lot.
 **Link to work:** [github_repo](https://github.com/thirddeck/profilefinder)
+
+### Day 5: July 3, 2018 
+
+**Today's Progress**: More CSS work- drop down menu
+**Thoughts:** Easy peasy!
+**Link to work:** [github_repo](https://github.com/thirddeck/CSS3_Dropdown_Menu)
