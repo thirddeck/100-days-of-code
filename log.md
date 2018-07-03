@@ -22,3 +22,9 @@
 **Thoughts:** It's simple, and looks great, now need to build the post pages ;-D
 **Link to work:** [github_repo](https://github.com/thirddeck/samfm)
 
+
+### Day 4: July 2, 2018 
+
+**Today's Progress**: Created a app using AJAX and the github API, to display user Public profile information
+**Thoughts:** this was tough, but i learned a lot.
+**Link to work:** [github_repo](https://github.com/thirddeck/profilefinder)
