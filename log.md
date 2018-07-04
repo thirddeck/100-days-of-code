@@ -34,3 +34,10 @@
 **Today's Progress**: More CSS work- drop down menu
 **Thoughts:** Easy peasy!
 **Link to work:** [github_repo](https://github.com/thirddeck/CSS3_Dropdown_Menu)
+
+
+### Day 6: July 4, 2018 
+
+**Today's Progress**: Designed a modern food delivery website, using JQuery and a couple CSS animations
+**Thoughts:** Looks great, i really love CSS
+**Link to work:** [github_repo](https://github.com/thirddeck/omnifood)
