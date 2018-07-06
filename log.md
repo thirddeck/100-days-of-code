@@ -41,3 +41,10 @@
 **Today's Progress**: Designed a modern food delivery website, using JQuery and a couple CSS animations
 **Thoughts:** Looks great, i really love CSS
 **Link to work:** [github_repo](https://github.com/thirddeck/omnifood)
+
+
+### Day 7: July 5, 2018 
+
+**Today's Progress**: Cleaned up some styling on the food delivery site- mudged some buttons, and changed the landing page image
+**Thoughts:** Still looks great
+**Link to work:** [github_repo](https://github.com/thirddeck/omnifood)
