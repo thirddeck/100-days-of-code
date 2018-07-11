@@ -48,3 +48,9 @@
 **Today's Progress**: Cleaned up some styling on the food delivery site- mudged some buttons, and changed the landing page image
 **Thoughts:** Still looks great
 **Link to work:** [github_repo](https://github.com/thirddeck/omnifood)
+
+### Day 8-12: July 11, 2018 
+
+**Today's Progress**: I spent the last 5 days completing my business and portfolio sites, I just need to add content and I'll be ready to deploy them to prod. Happy day, happy day!
+**Thoughts:** Graduation SOOOOON!
+**Link to work:** [github_repo](https://github.com/thirddeck/thirddeck.digital)
