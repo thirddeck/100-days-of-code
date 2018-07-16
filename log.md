@@ -53,4 +53,4 @@
 
 **Today's Progress**: I spent the last 5 days completing my business and portfolio sites, I just need to add content and I'll be ready to deploy them to prod. Happy day, happy day!
 **Thoughts:** Graduation SOOOOON!
-**Link to work:** [github_repo](https://github.com/thirddeck/thirddeck.digital
+**Link to work:** [github_repo](https://github.com/thirddeck/thirddeck.digital)
