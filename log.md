@@ -54,3 +54,18 @@
 **Today's Progress**: I spent the last 5 days completing my business and portfolio sites, I just need to add content and I'll be ready to deploy them to prod. Happy day, happy day!
 **Thoughts:** Graduation SOOOOON!
 **Link to work:** [github_repo](https://github.com/thirddeck/thirddeck.digital)
+
+
+### Day 13-21: July 20, 2018 
+
+**Today's Progress**: continuing to polish up the portfolio site, responsiveness is looking really good
+**Thoughts:** Graduation SOOOOON!
+**Link to work:** [github_repo](https://github.com/thirddeck/thirddeck.digital)
+
+### Day 22-33: August 1, 2018 
+
+**Today's Progress**: Head down coding like crazy in these last few days of school- almost ready to go live with portfolio site!
+**Thoughts:** 100100111001110
+**Link to work:** [github_repo](https://github.com/thirddeck/sam-armstrong)
+
+
