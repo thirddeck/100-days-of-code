@@ -69,3 +69,14 @@
 **Link to work:** [github_repo](https://github.com/thirddeck/sam-armstrong)
 
 
+### Day 34: August 2, 2018 
+
+**Today's Progress**: Worked on some jQuery exercises- created an image slider. check it out
+**Thoughts:** 100100111001110
+**Link to work:** [github_repo](https://github.com/thirddeck/jQuery_img_slider)
+
+### Day 35: August 3, 2018 
+
+**Today's Progress**: Worked on updates to my MEAN blog (mongo, express, angular, nodejs). Also added all of my Nodejs projects to GitHub in prep for my first dev interview!
+**Thoughts:** FIRST INTERVIEW COMING UP!
+**Link to work:** [github_repo](https://github.com/thirddeck/MeanBlog)
